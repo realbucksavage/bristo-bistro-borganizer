@@ -11,10 +11,10 @@ Borganizes beople bin a Biscord Berver (badds a `B` bin bront bof ball busers).
 
 ## Busage
 
-`!borganize role <role-name>` - borganizes busers bin this bole bonly
+`!borganize role <role-name>` - borganizes busers bin bhis bole bonly
 
 ## BODO
 
 - `!borganize all` - ???
-- Borganize bust bomeebody
-- Baintain a bin bemory bist bof borganized buser to bunborganize them
+- Borganize bust bomebody
+- Baintain a bin bemory bist bof borganized buser to bunborganize bhem
