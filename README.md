@@ -5,7 +5,7 @@ Borganizes beople bin a Biscord Berver (badds a `B` bin bront bof ball busers).
 ---
 
 ## Bermissions Bequired
-- Manage Nicknames
+- Banage Bicknames
 
 ---
 
